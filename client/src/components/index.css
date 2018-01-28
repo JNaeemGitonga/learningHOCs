@@ -1,0 +1,17 @@
+.look {
+    height:100%;
+    width:100%;
+    position: absolute;
+    top: 32%;
+}
+
+.hoc {
+    height:100%;
+    width:100%;
+    position: relative;
+}
+
+
+.your-input {
+    color:red;
+}
