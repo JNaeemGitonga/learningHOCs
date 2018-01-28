@@ -1,5 +1,5 @@
 # Testing out higher order components (HOCs)
-I had someone mention these (HOCs) to me so I decided to give them a try! Cool stuff but as Micheal Jackson stated there is another way to do the same thing and this may not necessarily be the best way, render prop works too and would take the guess work out of where your props are coming from. However, HOCs do work. I would mostly use them in Redux with `connect()` and `<Provider/>`.
+I had someone mention these (HOCs) to me so I decided to give them a try! Cool stuff but as [Micheal Jackson](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce) stated there is another way to do the same thing and this may not necessarily be the best way, render prop works too and would take the guess work out of where your props are coming from. However, HOCs do work. I would mostly use them in Redux with `connect()` and `<Provider/>`.
 
 ## To start
 
