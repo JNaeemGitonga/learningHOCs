@@ -6,7 +6,7 @@ I had someone mention these (HOCs) to me so I decided to give them a try! Cool s
 1. clone this repo
 2. npm install at root
 3. use http://localhost:8080
-
+4. check out the heroku deployment [here](https://higher-order-cmps.herokuapp.com/)
 ### Other stuff...
 I put a algorithm in this repo as well. It's just something that I was experimenting on while playing with HOCs.
 It works sometimes, but others it causes a stackoverflow! If you want take a look and if you figure the bug out submit a PR.
